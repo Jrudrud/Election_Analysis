@@ -28,5 +28,6 @@ The analysis of the election show that:
   - Diana DeGette received 73.8% of the vote and 272,892 number of votes.
 
 ## Challenge Overview
+  As stated above, the elction audit was preformed to find out who won the election, how the candidates preformed, and the results per county. 
 
 ## Challenge Summary
