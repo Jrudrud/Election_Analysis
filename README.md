@@ -14,7 +14,7 @@ A Colorado Board of Election employee has given the following tasks to complete 
 - SoftwareL: Python 3.7.6, Visual Studio Code, 1.64.2
 
 ## Challenge Overview
-  As stated above, the elction audit was preformed to find out who won the election, how the candidates preformed, and the results per county. The results are as follows:
+  As stated above, the election audit was preformed to find out who won the election, how the candidates performed, and the results per county. The results are as follows:
   * _Total votes cast_: 369,711
   
   * _Votes per county_:
