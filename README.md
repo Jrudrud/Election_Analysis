@@ -18,14 +18,14 @@ A Colorado Board of Election employee has given the following tasks to complete 
   * _Total votes cast_: 369,711
   
   * _Votes per county_:
-    1. Denver: 306,056; 82.8%
-    2. Jefferson: 38,856; 10.5%
-    3. Arapahoe: 24,802; 6.7%
+    1. Denver: (306,056; 82.8%)
+    2. Jefferson: (38,856; 10.5%)
+    3. Arapahoe: (24,802; 6.7%)
   
   * _Candidate Breakdown_ (votes, percentage of total vote):
-    1. Diana DeGette: 272,893, 73.8%
-    2. Charles Casper Stockham: 85,214, 23%
-    3. Raymon Anthony Doane: 11,607, 3.1%
+    1. Diana DeGette: (272,893, 73.8%)
+    2. Charles Casper Stockham: (85,214, 23%)
+    3. Raymon Anthony Doane: (11,607, 3.1%)
   
 ## Challenge Summary
   Though the original code was created for this specific election, the script can be used for future elections. For future elections, the file_to_load variable would have to updated with a current path to the new csv file holding the raw date (See lines 8-9 in photo one). Also, depending on the data separation in the new csv file, the "row[]" numbers would need to be updated to pull the accurate information out of the new file (See lines 48-52 in photo two).
