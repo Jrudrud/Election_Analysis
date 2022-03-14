@@ -31,10 +31,12 @@ A Colorado Board of Election employee has given the following tasks to complete 
   Though the original code was created for this specific election, the script can be used for future elections. For future elections, the file_to_load variable would have to updated with a current path to the new csv file holding the raw date (See lines 8-9 in photo one). Also, depending on the data separation in the new csv file, the "row[]" numbers would need to be updated to pull the accurate information out of the new file (See lines 48-52 in photo two).
   
  Photo #1
+ 
  <img width="924" alt="Screen Shot 2022-03-13 at 6 14 31 PM" src="https://user-images.githubusercontent.com/99840803/158089636-41af2b4b-7982-457f-a818-572f09aad156.png">
  
 
  Photo #2
+ 
   <img width="509" alt="Screen Shot 2022-03-13 at 6 23 46 PM" src="https://user-images.githubusercontent.com/99840803/158089623-404ffbd7-8f45-44ad-99cc-e171ad27cf53.png">
 
  
